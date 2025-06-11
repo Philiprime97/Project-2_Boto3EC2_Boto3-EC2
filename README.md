@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS EC2 Instance Automation with Boto3
 
 This project is a Python-based automation script designed to launch, monitor, and terminate an Amazon EC2 instance using the AWS SDK for Python (`boto3`). It demonstrates foundational skills in infrastructure automation and DevOps workflows on AWS.
@@ -133,3 +134,7 @@ Feel free to fork, modify, and reuse with attribution.
 DevOps | Cloud | Automation  
 GitHub: [your-username]  
 LinkedIn: [your-linkedin-url]
+=======
+# DevOps-Projects
+DevOps Projects
+>>>>>>> 68b37efe487f9eaa7317c6330efa9eddb660f484
